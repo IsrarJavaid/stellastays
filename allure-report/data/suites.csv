@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","17781","Verify that revenue dropdown have 1 value","","Sun Nov 17 18:19:42 WAT 2024","passed","Sun Nov 17 18:19:59 WAT 2024","Home Page Dropdown list verification","homePage.spec.js","",""
+"","16121","Verify that properties dropdown have 7 values","","Sun Nov 17 18:19:24 WAT 2024","passed","Sun Nov 17 18:19:41 WAT 2024","Home Page Dropdown list verification","homePage.spec.js","",""
